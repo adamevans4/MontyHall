@@ -11,3 +11,13 @@ with the current door.
 Should you swap your answer?
 OR
 Should you stay on the same door?
+
+download/clone this repo and run in your terminal.
+You may need to do CHMOD +x gameshow.py to run in temrinal.
+Command format is as follows: ./gameshow.py <Number of Rounds>
+i.e. ./gameshow.py 100
+Output is as follows: 
+=== Rounds: 100 ===
+Wins if Stay: xx (Rate: 0.xx)
+Wins if Swap: xx (Rate: 0.xx)
+
