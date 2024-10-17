@@ -21,3 +21,4 @@ Output is as follows:
 Wins if Stay: xx (Rate: 0.xx)
 Wins if Swap: xx (Rate: 0.xx)
 
+Future plans: I'll update this in the future to where you are actually playing the game, rather than a simple math problem simulation. (maybe a UI instead of text commands...)
